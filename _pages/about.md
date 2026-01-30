@@ -12,6 +12,5 @@ Ian Gonzalez is a ungraduate Computer Engineering student attending Virginia Tec
 Contact information 
 ======
 iang23@vt.edu
-------
-+1(919) 986-0726
 
++1(919) 986-0726
