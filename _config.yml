@@ -23,7 +23,7 @@ repository               : "igonzalez27/igonzalez27.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Ian Gonzalez"
   pronouns         : "He/Him/His"  
   bio              : "Computer Engineer Student at Virginia Tech University"
